@@ -1,0 +1,56 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.inria-sans-light {
+  font-family: "Inria Sans", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.inria-sans-light-italic {
+  font-family: "Inria Sans", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.inria-sans-regular {
+  font-family: "Inria Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.inria-sans-regular-italic {
+  font-family: "Inria Sans", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.inria-sans-bold {
+  font-family: "Inria Sans", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.inria-sans-bold-italic {
+  font-family: "Inria Sans", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.box1{height: 100px;width: 100px;border-radius: 10px;margin:0px 32px;border: 2px solid black;}
+.box1:hover{height: 100px;width: 100px;border-radius: 10px;margin:0px 32px;border: 2px solid #f92f57;transition: 0.5s;}
+
+.icn{color: black;}
+.icn:hover{color: #f92f57;}
+
+/* margin */
+
+/* padding */
+
+/* img */
+
+/* button */
+.btn1{padding: 10px 30px;font-size: 25px;color: white;background: black;border-radius: 10px;border: none;transition: 0.5s;}
+.btn1:hover{padding: 10px 30px;font-size: 25px;color: white;background: #f92f57;border-radius: 10px;border: none;transition: 0.5s;}

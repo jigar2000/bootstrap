@@ -1,0 +1,110 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.ubuntu-regular {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .ubuntu-medium {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .ubuntu-bold {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  /* margin */
+  .ml1 {margin: 200px 0px 0px 0px;}
+  .ml2 {margin: 25px 0px;}
+  .ml3 {margin: 0px 0px 0px 0px;}
+  .ml4 {margin: 0px 0px 0px 0px;}
+  .ml5 {margin: 0px 0px 0px 0px;}
+  .ml6 {margin: 0px 0px 0px 0px;}
+  .ml7 {margin: 0px 0px 0px 0px;}
+  .ml8 {margin: 0px 0px 0px 0px;}
+  .ml9 {margin: 0px 0px 0px 0px;}
+  .ml10 {margin: 0px 0px 0px 0px;}
+  .ml11 {margin: 0px 0px 0px 0px;}
+  .ml12 {margin: 0px 0px 0px 0px;}
+  .ml13 {margin: 0px 0px 0px 0px;}
+  .ml14 {margin: 0px 0px 0px 0px;}
+  .ml15 {margin: 0px 0px 0px 0px;}
+  .ml16 {margin: 0px 0px 0px 0px;}
+  .ml17 {margin: 0px 0px 0px 0px;}
+  .ml18 {margin: 0px 0px 0px 0px;}
+  .ml19 {margin: 0px 0px 0px 0px;}
+  .ml20 {margin: 0px 0px 0px 0px;}
+
+  /* text */
+  .tl{text-align: left;}
+  .tc{text-align: center;}
+  .tr{text-align: right;}
+  .tj{text-align: justify;}
+
+  /* button */
+  .btn1{border: none;background: white;color: black;padding: 15px 30px;margin: 10px 0px;transition: 1s;font-weight: 500;}
+  .btn1:hover{border: none;background: black;color: white;padding: 15px 30px;margin: 10px 0px;transition: 0.5s;font-weight: 500;}
+
+  .btn2{border: 1px solid white;background: none;color: white;padding: 10px 20px;}
+  .btn2:hover{border: 1px solid white;background: white;color: black;padding: 10px 20px;transition: 0.5s;}
+
+  .btn3{border: none;background: white;color: black;padding: 10px 20px;width: 100%;}
+  .btn3:hover{border: none;background: black;color: white;padding: 10px 20px;transition: 0.5s;display: block;}
+
+  .btn4{border: none;background-color: white;color: black;padding: 10px 25px;margin: 10px;}
+  .btn4:hover{border: none;background-color: black;color: white;padding: 10px 25px;transition: 0.5s;}
+
+  .btn5{border: none;background: none;display: block;text-align: left;}
+
+  .btn6{border: none;background: #6e7051;color: white;font-size: 20px;padding: 10px 20px;}
+  .btn6:hover{border: none;background: #000000c7;color: white;font-size: 20px;padding: 10px 20px;transition: 0.5s;}
+
+  .btn7{border: none;background: none;color: gray;padding: 10px 20px;}
+
+  .btn8{border: none;background: dimgray;color: white;height: 40px;width: 100%;}
+
+  .btn9{border: none;background: #6e7051;color: white;padding: 10px 25px;margin-top: 10px;}
+  .btn9:hover{border: none;background: black;color: white;padding: 10px 25px;margin-top: 10px;transition: 0.5s;}
+
+  .icn:hover{color: orange;transition: 0.5s;}
+
+  .btn10{height: 40px;width: 100%;background: #444242;border: 0px;color: white;}
+  .btn10:hover{background: black;color: white;}
+
+  .hide    .btn10{
+    display: none;
+}
+
+.hide:hover .btn10{
+    display: block;
+}
+
+.h50{
+    height: 40px ;
+}
+.w100{
+    width: 100%;
+}
+
+.bgs{
+    background: #f1f1ef;
+}
+
+.rt{transform: scale(0.9);transition: 1s;}
+.rt:hover{transform: scale(1.0);transition: 1s;}
+
+ /* color */
+ .clr{color: grey;}
+ .cll{color: grey;}
+
+ /* height */
+ .h50{height: 50px;}
+ .w100{width: 100%;}
